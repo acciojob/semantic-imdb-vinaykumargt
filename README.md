@@ -30,9 +30,8 @@
         <p>Rating : 9.2/10</p>
         <p>Release date : 24th of April, 2022</p>
     </aside>
-    
     <footer>
-        Produced by: &lt DVV Danayya &gt
+        <p> Produced by: &lt DVV Danayya &gt</p>
     </footer>
 </body>
 </html>
